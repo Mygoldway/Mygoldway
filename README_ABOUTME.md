@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing, MLM, trades and investment
 - 🌱 I’m currently learning crypto
 - 💞️ I’m looking to collaborate on bloggers and projects to do our world Better
-- 📫 How to reach me t.me/antony_makarov write "...from GitHub..."
+- 📫 How to reach me https://t.me/antony_makarov write "...from GitHub..."
 
 <!---
 Mygoldway/Mygoldway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
